@@ -1,5 +1,6 @@
 import streamlit
 
-streamlit.title('All about Chandan Maharaj')
+streamlit.title('My parents new healthy dinner')
 
-streamlit.body(' He is a 26 years old boy who is working in top MNC.')
+streamlit.header(' Breakfast Menu')
+streamlit.text('Omega3 & Sandwich')
